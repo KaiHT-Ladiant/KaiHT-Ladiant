@@ -20,7 +20,7 @@
 **Penetration Tester** · Seoul, Korea  
 Personal team · **RedSec (KOR)**
 
-[![RedSec](https://img.shields.io/badge/RedSec-KOR-b71c1c?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://redsec.kaiht.kr)
+[![RedSec](https://img.shields.io/badge/RedSec-KOR-b71c1c?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://redsec.co.kr)
 [![Secureroot](https://img.shields.io/badge/Company-Secureroot-1a1a1a?style=for-the-badge&logo=securityscorecard&logoColor=white)](http://www.secureroot.co.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-KaiHT--Ladiant-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaiHT-Ladiant)
 

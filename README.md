@@ -22,7 +22,7 @@ Personal team · **RedSec (KOR)**
 
 [![RedSec](https://img.shields.io/badge/RedSec-KOR-b71c1c?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://redsec.co.kr)
 [![Secureroot](https://img.shields.io/badge/Company-Secureroot-1a1a1a?style=for-the-badge&logo=securityscorecard&logoColor=white)](http://www.secureroot.co.kr)
-[![Web](https://img.shields.io/badge/Web-redsec.kaiht.kr-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=ff4d4d)](https://redsec.kaiht.kr)
+[![Web](https://img.shields.io/badge/Web-Kai__HT-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=ff4d4d)](https://redsec.kaiht.kr)
 
 <br />
 
@@ -99,28 +99,22 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
 
 <div align="center">
 
-<a href="https://redsec.kaiht.kr">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;icon_color=ff4d4d&amp;text_color=c9d1d9" />
-    <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;icon_color=b71c1c&amp;text_color=24292f" alt="GitHub stats" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;icon_color=ff4d4d&amp;text_color=c9d1d9" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;icon_color=b71c1c&amp;text_color=24292f" alt="GitHub stats" />
+</picture>
 &nbsp;
-<a href="https://redsec.kaiht.kr">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;text_color=c9d1d9" />
-    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;text_color=24292f" alt="Top languages" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;text_color=c9d1d9" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;text_color=24292f" alt="Top languages" />
+</picture>
 
 <br /><br />
 
-<a href="https://redsec.kaiht.kr">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D4D&amp;fire=FF4D4D&amp;currStreakLabel=FF4D4D" />
-    <img src="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=B71C1C&amp;fire=B71C1C&amp;currStreakLabel=B71C1C" alt="GitHub streak" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D4D&amp;fire=FF4D4D&amp;currStreakLabel=FF4D4D" />
+  <img src="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=B71C1C&amp;fire=B71C1C&amp;currStreakLabel=B71C1C" alt="GitHub streak" />
+</picture>
 
 <br /><br />
 

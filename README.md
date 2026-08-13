@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README — Kai_HT / RedSec (KOR)
-  https://github.com/KaiHT-Ladiant
+  https://redsec.kaiht.kr
 -->
 
 <div align="center">
@@ -22,7 +22,7 @@ Personal team · **RedSec (KOR)**
 
 [![RedSec](https://img.shields.io/badge/RedSec-KOR-b71c1c?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://redsec.co.kr)
 [![Secureroot](https://img.shields.io/badge/Company-Secureroot-1a1a1a?style=for-the-badge&logo=securityscorecard&logoColor=white)](http://www.secureroot.co.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-KaiHT--Ladiant-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaiHT-Ladiant)
+[![Web](https://img.shields.io/badge/Web-redsec.kaiht.kr-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=ff4d4d)](https://redsec.kaiht.kr)
 
 <br />
 
@@ -67,12 +67,16 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
     </td>
     <td width="200" align="center">
       <a href="http://www.secureroot.co.kr">
-        <img src="./assets/secureroot.png" alt="SecureRoot" height="40" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/secureroot-dark.png" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/secureroot-light.png" />
+          <img src="./assets/secureroot-light.png" alt="SecureRoot" height="40" />
+        </picture>
       </a>
     </td>
     <td width="200" align="center">
-      <a href="https://github.com/KaiHT-Ladiant">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
+      <a href="https://redsec.co.kr">
+        <img src="./assets/redsec.png" alt="RedSec Team" height="64" />
       </a>
     </td>
   </tr>
@@ -96,17 +100,31 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
 
 <div align="center">
 
-<a href="https://github.com/KaiHT-Ladiant">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;icon_color=ff4d4d&amp;text_color=c9d1d9" alt="GitHub stats" />
+<a href="https://redsec.kaiht.kr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;icon_color=ff4d4d&amp;text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;icon_color=b71c1c&amp;text_color=24292f" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;icon_color=b71c1c&amp;text_color=24292f" alt="GitHub stats" />
+  </picture>
 </a>
 &nbsp;
-<a href="https://github.com/KaiHT-Ladiant">
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;text_color=c9d1d9" alt="Top languages" />
+<a href="https://redsec.kaiht.kr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;text_color=24292f" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;text_color=24292f" alt="Top languages" />
+  </picture>
 </a>
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D4D&amp;fire=FF4D4D&amp;currStreakLabel=FF4D4D" alt="GitHub streak" />
+<a href="https://redsec.kaiht.kr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D4D&amp;fire=FF4D4D&amp;currStreakLabel=FF4D4D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=B71C1C&amp;fire=B71C1C&amp;currStreakLabel=B71C1C" />
+    <img src="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=B71C1C&amp;fire=B71C1C&amp;currStreakLabel=B71C1C" alt="GitHub streak" />
+  </picture>
+</a>
 
 <br /><br />
 

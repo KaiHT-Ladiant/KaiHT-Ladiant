@@ -67,16 +67,15 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
     </td>
     <td width="200" align="center">
       <a href="http://www.secureroot.co.kr">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/secureroot-dark.png" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/secureroot-light.png" />
-          <img src="./assets/secureroot-light.png" alt="SecureRoot" height="40" />
-        </picture>
+        <img src="https://www.secureroot.co.kr/sroot/images/secureroot.png" alt="SecureRoot" width="180" />
       </a>
     </td>
     <td width="200" align="center">
       <a href="https://redsec.co.kr">
-        <img src="./assets/redsec.png" alt="RedSec Team" height="64" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://redsec.co.kr/assets/img/portfolio/fullsize/1.jpg" />
+          <img src="https://redsec.co.kr/assets/img/portfolio/fullsize/2.jpg" alt="RedSec Team" width="180" />
+        </picture>
       </a>
     </td>
   </tr>
@@ -103,7 +102,6 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
 <a href="https://redsec.kaiht.kr">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;icon_color=ff4d4d&amp;text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;icon_color=b71c1c&amp;text_color=24292f" />
     <img height="160" src="https://github-stats-extended.vercel.app/api?username=KaiHT-Ladiant&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;icon_color=b71c1c&amp;text_color=24292f" alt="GitHub stats" />
   </picture>
 </a>
@@ -111,7 +109,6 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
 <a href="https://redsec.kaiht.kr">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4d4d&amp;text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;text_color=24292f" />
     <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaiHT-Ladiant&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=b71c1c&amp;text_color=24292f" alt="Top languages" />
   </picture>
 </a>
@@ -121,7 +118,6 @@ I run **RedSec (KOR)** as a personal team, building tools and doing hands-on off
 <a href="https://redsec.kaiht.kr">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D4D&amp;fire=FF4D4D&amp;currStreakLabel=FF4D4D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=B71C1C&amp;fire=B71C1C&amp;currStreakLabel=B71C1C" />
     <img src="https://streak-stats.demolab.com/?user=KaiHT-Ladiant&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=B71C1C&amp;fire=B71C1C&amp;currStreakLabel=B71C1C" alt="GitHub streak" />
   </picture>
 </a>
